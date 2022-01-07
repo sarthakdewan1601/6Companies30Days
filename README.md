@@ -1,4 +1,4 @@
-# 6Companies30Days Challenge by ARSH GOYAL
+# #6Companies30Days Challenge by ARSH GOYAL
 
 I'll be doing top 90-100 recent questions by most big tech companies.
 
