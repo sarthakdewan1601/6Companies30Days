@@ -11,3 +11,7 @@ I'll be doing top 90-100 recent questions by most big tech companies.
   Amazon (15 problems)<br>
   Link of the sheet - https://docs.google.com/document/d/1KH9GVaUCET-y5SL5sg6DAnon9XwRRW-sPiyJ2p7FRLs/edit
 </li>
+<li>
+  Microsoft (15 problems)<br>
+  Link of the sheet - https://docs.google.com/document/d/1sSyOTeZBVJExf0oytLVGk6Z34h1usFm4QRkr1Wb5ouk/edit
+</li>
